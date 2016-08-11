@@ -12,5 +12,9 @@ color:
     - '#CEAFC0'
 layout_spectrum: 0.9065458569675684
 name: K E Nielsen
+navigation:
+  - name: Blog
+    url: 'http://kenielsenauthor.blogspot.com/'
+    type: external
 title: Welcome to the Website of K E Nielsen
 description: Imagination Roars
