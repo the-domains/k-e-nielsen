@@ -16,5 +16,8 @@ navigation:
   - name: Blog
     url: 'http://kenielsenauthor.blogspot.com/'
     type: external
+  - name: Facebook
+    url: 'http://www.facebook.com/kaylaenielsen'
+    type: external
 title: Welcome to the Website of K E Nielsen
 description: Imagination Roars
